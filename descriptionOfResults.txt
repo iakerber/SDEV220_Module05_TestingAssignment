@@ -1,0 +1,3 @@
+Test results: As the results show in the first line, that the first test with integers passed, notated with a period (.), while the second test with fractions failed, notated with an F.
+It goes on to explain the failure, showing the name of the function that failed, and the main function. 
+In the assertion section, it shows that I tested for the result to be equal to 1, but the Assertion Error shows that the real result was 0.9 and not 1, so that is why this test failed.
